@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **AlynxZhou/AlynxZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I won't display some info here as what GitHub suggested. You are already in my profile page right? So why don't you just read my info from sidebar?
+
+Also if I want to present myself, I have website hosted via GitHub Pages, which contains CSS, so I can customize it.
+
+Go to <https://alynx.one/> for my personal website, and <https://sh.alynx.one/> for my blog. If you have extra time, try my projects below.
+
+Again, GitHub, or Micro$oft, this is not a useful feature, users cannot write CSS in Markdown files. My website is better than your README in profile, completely.
+
