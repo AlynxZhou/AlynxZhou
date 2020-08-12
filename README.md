@@ -19,7 +19,7 @@ I won't display some info here as what GitHub suggested. You are already in my p
 
 Also if I want to present myself, I have website hosted via GitHub Pages, which contains CSS, so I can customize it.
 
-Go to <https://alynx.one/> for my personal website, and <https://sh.alynx.one/> for my blog. If you have extra time, try my projects below.
+Go to <https://alynx.one/> for my personal website, and <https://sh.alynx.one/> for my blog. If you have extra time, try my projects below. Wanna contact me? My personal Email is [alynx.zhou@gmail.com](mailto:alynx.zhou@gmail.com).
 
 Again, GitHub, or Micro$oft, this is not a useful feature, users cannot write CSS in Markdown files. My website is better than your README in profile, completely.
 
