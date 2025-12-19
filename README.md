@@ -1,26 +1,7 @@
-<!-- ### Hi there 👋 -->
+Go to <https://alynx.one/> for my personal website, and <https://sh.alynx.one/> for my blog.
 
-<!--
-**AlynxZhou/AlynxZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you have extra time, try my projects below. I really suggest [ReFrame](https://github.com/AlynxZhou/reframe/), which is the remote desktop for Linux I recently works on.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I won't display some info here as what GitHub suggested. You are already in my profile page right? So why don't you just read my info from sidebar?
-
-Also if I want to present myself, I have website hosted via GitHub Pages, which contains CSS, so I can customize it.
-
-Go to <https://alynx.one/> for my personal website, and <https://sh.alynx.one/> for my blog. If you have extra time, try my projects below. Wanna contact me? My personal Email is [alynx.zhou@gmail.com](mailto:alynx.zhou@gmail.com).
-
-Again, GitHub, or Micro$oft, this is not a useful feature, users cannot write CSS in Markdown files. My website is better than your README in profile, completely.
+Wanna contact me? My personal Email is [alynx.zhou@gmail.com](mailto:alynx.zhou@gmail.com).
 
 ![](https://dota.librian.net/api/d?id=399231943&要=比赛,近期胜率,常用英雄)
